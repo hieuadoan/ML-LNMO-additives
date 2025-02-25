@@ -1,7 +1,7 @@
 # ML-LNMO-additives
 [![DOI](https://zenodo.org/badge/810364171.svg)](https://doi.org/10.5281/zenodo.14715367) \
 Data and code used in:\
-**"Data-driven Design of Electrolyte Additives for High-Performance 5 V LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> Cathodes"**\
+**"Data-driven Design of Electrolyte Additives for High-Performance 5 V LiNi<sub>0.5</sub>Mn<sub>1.5</sub>O<sub>4</sub> Positive Electrodes"**\
 Bingning Wang, Hieu A. Doan, Seoung-bum Son, Daniel P. Abraham, Stephen E. Trask, Andrew Jansen, Kang Xu, and Chen Liao. 
 # File description
 - _measuredPerformance.xlsx_: Experimental measurements of 28 intial additives and the baseline
